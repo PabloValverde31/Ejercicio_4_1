@@ -1,3 +1,7 @@
+/* @author: Pablo Valverde
+ * @version: Versión 2.0
+ * 
+*/
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
