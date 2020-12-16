@@ -42,6 +42,8 @@ public class AleatorioEmple {
 			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
+		
+		System.out.println("Segunda línea");
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
